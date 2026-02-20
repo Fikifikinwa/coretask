@@ -1,0 +1,44 @@
+# Visual Studio
+coreTask.sln
+
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider DLLs
+*.dll
+
+# NuGet packages
+*.nupkg
+
+# Local database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# IIS Express config
+.applicationhost.config
+
+# Visual Studio design-time build folders
+**/DesignTimeBuild/
+
+# Visual Studio file content index
+**/FileContentIndex/
+
+# Visual Studio version-specific cache files
+.vs/
+.v18/
+.v17/
+
+# Logs
+logs
+*.log
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# VS HTTP client scratch files
+*.http
